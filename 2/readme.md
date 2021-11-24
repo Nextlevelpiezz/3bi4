@@ -72,4 +72,4 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
-[erd]: <https://github.com/Bartoch78/3bi4/2/Diagram/Diagram.PNG>
+[erd]: <https://github.com/Bartoch78/3bi4/2/blob/main/Diagram/Diagram.PNG>
