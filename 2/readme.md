@@ -49,7 +49,7 @@ I am personally responsible for its operation: Adrian Bartoszewski.
 
 ## Entity Relationship Diagram
 
-[link to diagram in jpg][erd]
+[link to diagram in PNG][erd]
 
 ## Cpecific functionalities
 
