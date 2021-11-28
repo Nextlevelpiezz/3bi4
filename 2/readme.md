@@ -5,10 +5,11 @@
 ## principal: Michał Czerwiński
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 17.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
+| 1.1 | 17.11.2021 | adding ERD |
+| 1.2 | 25.11.2021 | adding organizational structure |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -51,6 +52,10 @@ I am personally responsible for its operation: Adrian Bartoszewski.
 
 [link to diagram in PNG][erd]
 
+## Organizational structure diagram
+
+[link to diagram OSD in PNG][osd]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -73,3 +78,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
 [erd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG>
+[osd]: 
