@@ -78,4 +78,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
 [erd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG>
-[osd]: 
+[osd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram%20OSD.PNG>
