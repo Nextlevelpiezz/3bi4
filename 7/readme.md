@@ -4,7 +4,7 @@
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
+| dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
